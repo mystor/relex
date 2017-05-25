@@ -2,5 +2,5 @@
 name = "relex"
 version = "0.1.0"
 authors = ["Michael Layzell <michael@thelayzells.com>"]
-description = "A lexer for rust tokens"
+description = "Interpret rust tokens provided by `proc-macro` or `proc-macro2`"
 repository = "https://github.com/mystor/relex"
