@@ -1,0 +1,6 @@
+[package]
+name = "relex"
+version = "0.1.0"
+authors = ["Michael Layzell <michael@thelayzells.com>"]
+description = "A lexer for rust tokens"
+repository = "https://github.com/mystor/relex"
